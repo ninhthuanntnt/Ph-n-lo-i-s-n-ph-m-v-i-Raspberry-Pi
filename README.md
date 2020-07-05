@@ -1,4 +1,4 @@
-# Đồ án LTHT và VĐK
+# Phân loại sản phẩm dựa trên bao bì và logo
 #### Sử dụng Tkinter để xây dựng giao diện
 #### Sử dụng OpenCV cho xử lý ảnh
 #### Sử dụng thư viện gpiozero để điều khiển phần cứng
